@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a second year postgraduate student from [School of CS](https://cs.cug.edu.cn/)., [Chnia University of Geoscience](https://www.cug.edu.cn/). My research interest includes graph neural network, machine learning, and data ming.
+Hi! I'm a second year postgraduate student from [School of CS](https://cs.cug.edu.cn/), [Chnia University of Geoscience](https://www.cug.edu.cn/). My research interest includes graph neural network, machine learning, and data ming.
 
 I am very fortunate to be advised by [Prof. Hu Chengyu](https://www.researchgate.net/profile/Chengyu-Hu)
 
