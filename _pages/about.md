@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a second year postgraduate student from [School of CS](https://eecs.pku.edu.cn/), [Chnia University of Geoscience](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+Hi! I'm a second year postgraduate student from [School of CS](https://cs.cug.edu.cn/)., [Chnia University of Geoscience](https://www.cug.edu.cn/). My research interest includes graph neural network, machine learning, and data ming.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. 
+I am very fortunate to be advised by [Prof. Hu Chengyu](https://www.researchgate.net/profile/Chengyu-Hu)
 
 You can find my CV here: [cyw's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
